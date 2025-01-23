@@ -1,4 +1,4 @@
-### Using Various Stemming Techniques**
+### Using Various Stemming Techniques
 
 #### **1. Porter Stemmer**
 The Porter Stemmer is implemented in NLTK and can be used as follows:
